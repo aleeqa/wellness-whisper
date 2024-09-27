@@ -3,8 +3,7 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
-
+    // edit the layout and setting of the page 
     // To select an element by ID use: $w('#elementID')
-
     // Click 'Preview' to run your code
 });
