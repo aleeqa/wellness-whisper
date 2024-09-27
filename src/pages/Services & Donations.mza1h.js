@@ -3,7 +3,8 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
-
+    // edit the layout of the page
+    // added donation section and donation form
     // To select an element by ID use: $w('#elementID')
 
     // Click 'Preview' to run your code
