@@ -4,6 +4,7 @@
 $w.onReady(function () {
     // Write your JavaScript here
     //edit title
+    //edit header
     // To select an element by ID use: $w('#elementID')
 
     // Click 'Preview' to run your code
