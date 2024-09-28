@@ -3,7 +3,7 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
-
+    // Add new group and posts in the group
     // To select an element by ID use: $w('#elementID')
 
     // Click 'Preview' to run your code
