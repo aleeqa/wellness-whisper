@@ -3,6 +3,7 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
+    // Edit notification design
 
     // To select an element by ID use: $w('#elementID')
 
