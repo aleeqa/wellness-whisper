@@ -3,6 +3,9 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
+    // Add categories
+    // Write articles
+    // Assign the articles according to categories
 
     // To select an element by ID use: $w('#elementID')
 
